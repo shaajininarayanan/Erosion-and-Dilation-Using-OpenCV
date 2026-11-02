@@ -184,18 +184,18 @@ Thus, the morphological operations Erosion and Dilation were successfully implem
 Add your Jupyter Notebook screenshots below:
 
 - **Output 1:** Original Image with Text
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a498ad5d-e59e-4536-a661-df617ca602d9" />
+
 - **Output 2:** Structuring Element
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06c2f8c4-245e-4127-aef1-7a3104357755" />
+
 - **Output 3:** Erosion Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/786e7108-9f50-4de4-840b-975b6eb80a0b" />
+
 - **Output 4:** Dilation Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b762765-2bd1-4d43-a585-0613303f2339" />
+
 - **Output 5:** Comparison of Original, Erosion, and Dilation
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9d41e292-a6e9-40b9-8520-c60418dfecac" />
 
-## Instructions
 
-1. Open Anaconda Navigator and launch Jupyter Notebook.
-2. Run each program separately in the given order.
-3. Verify the erosion and dilation outputs.
-4. Capture screenshots of all outputs.
-5. Copy the README content into your GitHub repository.
-6. Commit the changes.
-7. Attach the lab report PDF separately in LMS.
-8. Mention the GitHub repository URL in the submission text.
